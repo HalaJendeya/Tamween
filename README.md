@@ -1,4 +1,4 @@
-# Tamween Plus Flutter UI
+# Tamween Flutter UI
 
 An RTL, UI-only Flutter prototype based on the supplied Tamween screens. It uses local mock data and contains no API or backend layer.
 
